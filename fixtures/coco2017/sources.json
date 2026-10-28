@@ -1,0 +1,1907 @@
+{
+  "dataset_info": "https://cocodataset.org/",
+  "metadata_source": "https://huggingface.co/datasets/srishti-kaushik/COCO-2017",
+  "note": "COCO license IDs vary by original image; consult original Flickr page and license before redistribution. Captions from COCO annotations.",
+  "images": [
+    {
+      "group_id": 1,
+      "dataset": "COCO 2017 validation",
+      "image_id": 37777,
+      "file": "fixtures/coco2017/group_01_000000037777.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000037777.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8429/7839199426_f6d48aa585_z.jpg",
+      "coco_license_id": 1,
+      "width": 352,
+      "height": 230,
+      "sha256": "fe513b68ba46bc146114c469fdff52c288226073f03d73d3300d4fa739937369",
+      "captions": [
+        "The dining table near the kitchen has a bowl of fruit on it.",
+        "A small kitchen has various appliances and a table.",
+        "The kitchen is clean and ready for us to see.",
+        "A kitchen and dining area decorated in white.",
+        "A kitchen that has a bowl of fruit on the table."
+      ]
+    },
+    {
+      "group_id": 2,
+      "dataset": "COCO 2017 validation",
+      "image_id": 174482,
+      "file": "fixtures/coco2017/group_02_000000174482.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000174482.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7020/6478877255_242f741dd1_z.jpg",
+      "coco_license_id": 6,
+      "width": 640,
+      "height": 388,
+      "sha256": "41fab00aad97dad3eb7d035420b8cc61ed0ca8f4f0b66a4fbc1bd0bba6f8a5b3",
+      "captions": [
+        "a blue bike parked on a side walk ",
+        "A bicycle is chained to a fixture on a city street",
+        "A blue bicycle sits on a sidewalk near a street.",
+        "A bicycle is locked up to a post",
+        "a bike sits parked next to a street "
+      ]
+    },
+    {
+      "group_id": 3,
+      "dataset": "COCO 2017 validation",
+      "image_id": 480985,
+      "file": "fixtures/coco2017/group_03_000000480985.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000480985.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2336/1634911562_703ff01cff_z.jpg",
+      "coco_license_id": 6,
+      "width": 375,
+      "height": 500,
+      "sha256": "3ac1735a37375f41662744d2f729d1c04c2b8460b8b1035f4e0c024d8d08d7eb",
+      "captions": [
+        "The shiny motorcycle has been put on display.",
+        "The new motorcycle on display is very shiny.",
+        "A motorcycle is parked inside of a building.",
+        "A brand new motorcycle on display at a show.",
+        "The front end of a red motorcycle that is on display."
+      ]
+    },
+    {
+      "group_id": 4,
+      "dataset": "COCO 2017 validation",
+      "image_id": 348881,
+      "file": "fixtures/coco2017/group_04_000000348881.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000348881.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4127/5172389204_31214fdc50_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 462,
+      "sha256": "dfe178b6e9a2bf5d1d98893371f41256f51852c2f8c147f2cf0d6b7f63880c1d",
+      "captions": [
+        "A large jetliner sitting on top of an airport runway.",
+        "Airline employees by an aircraft parked at the gate",
+        "The plane is parked at the gate at the airport terminal.",
+        "View from gate of jet connected to jet way for passengers to board or deplane",
+        "A large white airplane and a person on a lot."
+      ]
+    },
+    {
+      "group_id": 5,
+      "dataset": "COCO 2017 validation",
+      "image_id": 522713,
+      "file": "fixtures/coco2017/group_05_000000522713.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000522713.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3146/2353513897_17393f1b00_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "304490ba22702c333f824e02cb908909805ee3d15aed7c9014b80d66961d57f2",
+      "captions": [
+        " a bench sitting in the grass facing the water and boats ",
+        "A wooden bench overlooking a harbor beneath a cloudy sky.",
+        "A beach has a grassy area with a park beach.",
+        "A bench that is sitting in the grass.",
+        "A bench at the beach next to the sea"
+      ]
+    },
+    {
+      "group_id": 6,
+      "dataset": "COCO 2017 validation",
+      "image_id": 322864,
+      "file": "fixtures/coco2017/group_06_000000322864.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000322864.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3833/9414555779_75b9652a03_z.jpg",
+      "coco_license_id": 6,
+      "width": 427,
+      "height": 640,
+      "sha256": "fa4a703a4b75abb75f2020f51c2bcbd021945e33f88356cdde2be9dd2c382cfb",
+      "captions": [
+        "A yellow taxi cab sitting below tall buildings.",
+        "A picture of an animal is on a pole and next to it is a yellow taxi.",
+        "a couple of yellow signs are near a taxi",
+        "ON A CITY ROAD THERE IS LOTS OF TAXIS",
+        "Two guiding signs are pictured in front of a busy street."
+      ]
+    },
+    {
+      "group_id": 7,
+      "dataset": "COCO 2017 validation",
+      "image_id": 153299,
+      "file": "fixtures/coco2017/group_07_000000153299.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000153299.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/88/233835328_6c4490cf34_z.jpg",
+      "coco_license_id": 1,
+      "width": 461,
+      "height": 500,
+      "sha256": "229f4f5304f7177a5017f06b1672205adbc0c5eb16da33fc0f4773cd2f9ed13c",
+      "captions": [
+        "two giraffes are standing together outside a barn",
+        "A mother giraffe is standing with a baby giraffe.",
+        "The smaller giraffe is standing next to the larger giraffe.",
+        "Two giraffes in a sanctuary standing close to the wall",
+        "Two giraffes, one grown and one baby, standing next to each other"
+      ]
+    },
+    {
+      "group_id": 8,
+      "dataset": "COCO 2017 validation",
+      "image_id": 219578,
+      "file": "fixtures/coco2017/group_08_000000219578.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000219578.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4094/4917146875_e48e614ff2_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 427,
+      "sha256": "c812b11f47fec3b967f3e3e00ad42b1005ff9acede996b5d10c32fbe4bd3cbf1",
+      "captions": [
+        "A dog and cat lying  together on an orange couch. ",
+        "A dog and a cat curled up together on a couch.",
+        "A cat and dog napping together on the couch.",
+        "A dog and cat are sleeping together on an orange couch.",
+        "A cat and a dog rest together on a hideous orange couch."
+      ]
+    },
+    {
+      "group_id": 9,
+      "dataset": "COCO 2017 validation",
+      "image_id": 500663,
+      "file": "fixtures/coco2017/group_09_000000500663.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000500663.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2452/4046745441_5a2f435499_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 480,
+      "sha256": "409a0b4438f67db00f69697f9b1728eb75fc511031e6fa176b029410aa9c537d",
+      "captions": [
+        "A herd of cattle grazing on a lush green field.",
+        "There are two cows in this grassy field.",
+        "some black cattle are grazing in a green field",
+        "Cattle are grazing in a bright green pasture along a river and mountains.",
+        "A few cows grazing in a field near trees."
+      ]
+    },
+    {
+      "group_id": 10,
+      "dataset": "COCO 2017 validation",
+      "image_id": 403817,
+      "file": "fixtures/coco2017/group_10_000000403817.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000403817.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/40/122334986_1c6fd10c4c_z.jpg",
+      "coco_license_id": 3,
+      "width": 500,
+      "height": 375,
+      "sha256": "09bfb958119e68832744541a844f7bbbfbf64e29f66172b9c3ff2dcfe0073732",
+      "captions": [
+        "A cat sitting beside a laptop on a desk.",
+        "A curious cat looking upward by a laptop screen.",
+        "A picture of a cat staring at the ceiling. ",
+        "a white and black cat looking up in the air in front of a desktop computer.",
+        "The grey and white cat stares up near a laptop."
+      ]
+    },
+    {
+      "group_id": 11,
+      "dataset": "COCO 2017 validation",
+      "image_id": 502136,
+      "file": "fixtures/coco2017/group_011_000000502136.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000502136.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2253/1755223462_fabbeb8dc3_z.jpg",
+      "coco_license_id": 3,
+      "width": 500,
+      "height": 423,
+      "sha256": "e41efcb6de850c2248d2fe356313c2b770b8edad8048a9407b621c243d2d6b84",
+      "captions": [
+        "A building wall and pair of doors that are open, along with vases of flowers on the outside of the building.",
+        "a building with dirty walls and dirty doors",
+        "a run down building with two planters outside the door",
+        "a yellow and brown wall a gray door and a sign ",
+        "A plaster external wall with multiple old paper images attached."
+      ]
+    },
+    {
+      "group_id": 12,
+      "dataset": "COCO 2017 validation",
+      "image_id": 491497,
+      "file": "fixtures/coco2017/group_012_000000491497.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000491497.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2076/2227048481_0ed8653652_z.jpg",
+      "coco_license_id": 3,
+      "width": 375,
+      "height": 500,
+      "sha256": "a58776b09d34fb1c0072cbe1a01a20deb7f1c5dda0966369d1e6e4a5fec51757",
+      "captions": [
+        "A fluffy white chair that faces away fro a television.",
+        "A pillow covered reading chair in the corner of the living room",
+        "The living room is empty with the television on. ",
+        "White ornate seat in nicely decorated room with television.",
+        "A white chair, books and shelves and a tv on in this room."
+      ]
+    },
+    {
+      "group_id": 13,
+      "dataset": "COCO 2017 validation",
+      "image_id": 17627,
+      "file": "fixtures/coco2017/group_013_000000017627.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000017627.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4145/4977243989_c2efb1b911_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "bad16bff668a52e7df757c6382244c86b416315b86a52749dd7bc6ec68e7092f",
+      "captions": [
+        "Several cars are parked in front of a building.",
+        "A green car has parked on the curb in a parking lot",
+        "Small parking lot of cars in front of a stone building.",
+        "Cars are parked on the the street in front of the building.",
+        "Cars are parked on the street near an old building."
+      ]
+    },
+    {
+      "group_id": 14,
+      "dataset": "COCO 2017 validation",
+      "image_id": 460347,
+      "file": "fixtures/coco2017/group_014_000000460347.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000460347.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8203/8262915638_911e6c6ea8_z.jpg",
+      "coco_license_id": 3,
+      "width": 427,
+      "height": 640,
+      "sha256": "431bf6f6a8153c8da75c77d1259af7c168d434585f26ba296198927a4960a4e3",
+      "captions": [
+        "A bus traveling on a freeway next to other traffic.",
+        "A bus and other cars driving down a multi-laned street .",
+        "A white bus driving on a four lane road.",
+        "City bus next to traffic cones in the far right lane of a busy freeway.",
+        "A white with red striped bus drives down the slow lane on a freeway surrounded by several other cars."
+      ]
+    },
+    {
+      "group_id": 15,
+      "dataset": "COCO 2017 validation",
+      "image_id": 226111,
+      "file": "fixtures/coco2017/group_015_000000226111.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000226111.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3348/3333755023_1a0381e95f_z.jpg",
+      "coco_license_id": 4,
+      "width": 480,
+      "height": 640,
+      "sha256": "c57ab832bf70043e1c08b82ef43b2d65e09ad09bc1437658d3c0a15cc0f99ac6",
+      "captions": [
+        "A No bicycles, skates or skateboards sign on a pole.",
+        "a close up of a vandalized street sign",
+        "A street sign prohibiting bicycles, skates, and skateboards.",
+        "A street sign mounted to the side of a pole.",
+        "A sign prohibiting skating on the sidewalk with black and red writing."
+      ]
+    },
+    {
+      "group_id": 16,
+      "dataset": "COCO 2017 validation",
+      "image_id": 58636,
+      "file": "fixtures/coco2017/group_016_000000058636.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000058636.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2753/5744540082_707eaf8887_z.jpg",
+      "coco_license_id": 4,
+      "width": 634,
+      "height": 640,
+      "sha256": "9c62cafaa78da7f5c47881c90188f91375b6658042e30714e59979d1a1a3bb04",
+      "captions": [
+        "A large wooden pole with a green street sign hanging from it.",
+        "street signs on the corner of Gladys and Detroit",
+        "The signs give the street names and show where to park.",
+        "A wooden utility pole sports several street signs.",
+        "The street signs for Gladys and Detroit streets are attached to a wooden pole."
+      ]
+    },
+    {
+      "group_id": 17,
+      "dataset": "COCO 2017 validation",
+      "image_id": 184321,
+      "file": "fixtures/coco2017/group_017_000000184321.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000184321.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3738/9619673502_7bb5875df3_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 480,
+      "sha256": "5018ca72abedb01bd8634a238a941d7f6b99a0112435adbfd4a2ae0e338162e3",
+      "captions": [
+        "A train traveling down tracks next to lights.",
+        "A blue and silver train next to train station and trees.",
+        "A blue train is next to a sidewalk on the rails.",
+        "A passenger train pulls into a train station.",
+        "A train coming down the tracks arriving at a station."
+      ]
+    },
+    {
+      "group_id": 18,
+      "dataset": "COCO 2017 validation",
+      "image_id": 297343,
+      "file": "fixtures/coco2017/group_018_000000297343.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000297343.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4045/4693556483_48778c7494_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 432,
+      "sha256": "4a175dded2929c5a585b37c83a3d7f926f37df2d2a15bb54de019946ab477b04",
+      "captions": [
+        "A stop sign has been placed upside-down in the grass beside a building. ",
+        "A stop sighn is propped up against the side of a building.",
+        "A red stop sign sitting on the floor next to a wall.",
+        "Road sigh on wooden pole shown upside down next to white wall.",
+        "A stop sign standing up against a wall."
+      ]
+    },
+    {
+      "group_id": 19,
+      "dataset": "COCO 2017 validation",
+      "image_id": 336587,
+      "file": "fixtures/coco2017/group_019_000000336587.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000336587.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3136/3036562391_57325b7c1a_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "988576ed8d3fc19da5627c7674028f2fe0bd264952d328bf38eeb5043257e716",
+      "captions": [
+        "a stop sign sittin on a pole that is somewhat broken ",
+        "A stop sign on a broken post across the street from houses.",
+        "A broken telephone pole in a neighborhood with a stop sign attached to it.",
+        "A stop sign is on a dented wooden pole.",
+        "A stop sign that is attached to a broken wooden pole."
+      ]
+    },
+    {
+      "group_id": 20,
+      "dataset": "COCO 2017 validation",
+      "image_id": 122745,
+      "file": "fixtures/coco2017/group_020_000000122745.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000122745.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1028/1143164889_bf35e363ed_z.jpg",
+      "coco_license_id": 4,
+      "width": 480,
+      "height": 640,
+      "sha256": "aa3c48a0adbec4086965c1f00cc51400deccf197ec294bf6ad891f1dc4e47d82",
+      "captions": [
+        "A stop sign is lit up in the dark of night.",
+        "A red stop sign sitting on the side of a dark road.",
+        "A red stop sign is glowing against the dark sky.",
+        "A stop sign on the side of a street.",
+        "a vandalized stop sign in the dark with a sky background"
+      ]
+    },
+    {
+      "group_id": 21,
+      "dataset": "COCO 2017 validation",
+      "image_id": 555705,
+      "file": "fixtures/coco2017/group_021_000000555705.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000555705.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5266/5808419943_81314ba194_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 371,
+      "sha256": "33cbe32cfb91e75486c65ad18c5ae9e824127512a41a785e470fe418af1bca1b",
+      "captions": [
+        "Two cats sitting on top of a pair of shoes.",
+        "Two cats are outside and perched on someone's sneakers.",
+        "Two cats are sitting on a pair of shoes outdoors.",
+        "Two striped cats lying with two sneakers on a ledge.",
+        "Orange and brown cat sitting on top of white shoes. "
+      ]
+    },
+    {
+      "group_id": 22,
+      "dataset": "COCO 2017 validation",
+      "image_id": 443303,
+      "file": "fixtures/coco2017/group_022_000000443303.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000443303.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3181/2888219798_a8fdeeb54b_z.jpg",
+      "coco_license_id": 2,
+      "width": 500,
+      "height": 375,
+      "sha256": "9e8d0db88fca8eaca54dcfcd59ed183f6f3472c73137ab9973edcf9c96e8c0ca",
+      "captions": [
+        "A cat laying on clothes that are in a suitcase. ",
+        "A cat that is laying in a piece of luggage. ",
+        "A cat is laying in an open suitcase on top of some clothes.",
+        "A view of a cat lying in a open suitcase.",
+        "An orange and white cat laying on top of a bag of luggage."
+      ]
+    },
+    {
+      "group_id": 23,
+      "dataset": "COCO 2017 validation",
+      "image_id": 418281,
+      "file": "fixtures/coco2017/group_023_000000418281.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000418281.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2826/10096943865_4342e11627_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 427,
+      "sha256": "c37fc38e4bcf367324b1756b9d53aea49e3cadd415b2b93a1b62c2669aea797c",
+      "captions": [
+        "two cows outside one laying down and the other standing near a building ",
+        "The white scared cow in a Tibetan city.",
+        "A cow standing in a grassy open field.",
+        "A herd of cattle sitting and standing on a lush green field.",
+        "There white cows in grassy area with temples in background."
+      ]
+    },
+    {
+      "group_id": 24,
+      "dataset": "COCO 2017 validation",
+      "image_id": 25560,
+      "file": "fixtures/coco2017/group_024_000000025560.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000025560.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/198/488201322_ef2ebfeccb_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 480,
+      "sha256": "14ce4ee59869b1461f30c64c09e1240edec49c820933c90830b6090d4219c416",
+      "captions": [
+        "An orange and white cat standing in front of a flat screen TV",
+        "A cat climbing on top of a shelf with a tv",
+        "A cat is standing on top of a shelf and staring down.",
+        "A cat standing in front of a tv on a tv stand.",
+        "A cat perches on top of an entertainment center in front of a TV."
+      ]
+    },
+    {
+      "group_id": 25,
+      "dataset": "COCO 2017 validation",
+      "image_id": 286994,
+      "file": "fixtures/coco2017/group_025_000000286994.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000286994.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2879/9593058971_c198b320ee_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 480,
+      "sha256": "8688f9b42ebc4843c3e7c4562a95394abc9940b17d923505b83e5d821059fef0",
+      "captions": [
+        "some elephants and one is by some water",
+        "A elephant drinks from a stream with several other elephants walking in the background.",
+        "One elephant standing away from the rest of the herd, drinking water.",
+        "An elephant drinking water while the rest of the herd is walking in dry grass.",
+        "A group of elephants with water in front and trees behind."
+      ]
+    },
+    {
+      "group_id": 26,
+      "dataset": "COCO 2017 validation",
+      "image_id": 511321,
+      "file": "fixtures/coco2017/group_026_000000511321.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000511321.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3668/9987909545_5c30c1ce40_z.jpg",
+      "coco_license_id": 5,
+      "width": 427,
+      "height": 640,
+      "sha256": "1f11a7961b4d3175280aee99a8ec93107cc13c4ba798c16ecd1c8411a64a64eb",
+      "captions": [
+        "there are two large boats that are in the water ",
+        "Some very nice looking boats in the water.",
+        "Two large ferries passing by each other in a city scape,",
+        "Two long boats are sailing near a large bridge. ",
+        "Scenic boats daily travel the Thames in England."
+      ]
+    },
+    {
+      "group_id": 27,
+      "dataset": "COCO 2017 validation",
+      "image_id": 314294,
+      "file": "fixtures/coco2017/group_027_000000314294.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000314294.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8220/8445739283_05133941ff_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 360,
+      "sha256": "9750be89f2b940cd48cd0d8527d8ab6424983d8e7c398cf7d4158883aca1504d",
+      "captions": [
+        "An elephant standing under the shade of a tree.",
+        "An elephant standing in the middle of a rocky environment.",
+        "An elephant is alone in a wooded enclosure.",
+        "An elephant standing in a shaded cleaning in a wooded area.",
+        "An elephant walks alone past some big rocks boulders in an open field"
+      ]
+    },
+    {
+      "group_id": 28,
+      "dataset": "COCO 2017 validation",
+      "image_id": 475779,
+      "file": "fixtures/coco2017/group_028_000000475779.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000475779.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3004/5840536253_27004298cc_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8aba7fdf9b84905e8e09146c6ed262eb91f55b38abf6b6df8c4c59a75885a8a",
+      "captions": [
+        "There is an elephant standing near a tree.",
+        "An elephant in a grassy field with trees",
+        "A large tusked elephant walking in a wooded area.",
+        "An elephant is walking through the green shrubs.",
+        "An adorable elephant walking through a grass covered forest."
+      ]
+    },
+    {
+      "group_id": 29,
+      "dataset": "COCO 2017 validation",
+      "image_id": 312421,
+      "file": "fixtures/coco2017/group_029_000000312421.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000312421.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7417/10072949756_a273bd03da_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 427,
+      "sha256": "9ee3cfd727144aa212dcc5826f4f721600c65223ac47af1c4107613913c359ba",
+      "captions": [
+        "Several middle eastern looking stickers decorate a black briefcase.",
+        "Suitcase with stickers outside on table in city.",
+        "a luggage bag on top of a table ",
+        "A briefcase with decorated with stickers placed on a table.",
+        "A lunch box of some sorts is placed on the table. "
+      ]
+    },
+    {
+      "group_id": 30,
+      "dataset": "COCO 2017 validation",
+      "image_id": 572517,
+      "file": "fixtures/coco2017/group_030_000000572517.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000572517.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3744/8754578923_aa3309cca9_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 424,
+      "sha256": "91f4d327a8f83c8df2013b0962baf76794a4bbfefe939a7fc2bad545785d0d35",
+      "captions": [
+        "a polar bear following a big winged bird",
+        "a large bear landing a large polar bear is in the background preparing to drink from the water ",
+        "A polar bear and a bird near a small pond.",
+        "A bird sitting in front of the water with a bear on the other side.",
+        "A Polar Bear walks toward water, while a large bird lands on the opposite bank."
+      ]
+    },
+    {
+      "group_id": 31,
+      "dataset": "COCO 2017 validation",
+      "image_id": 270244,
+      "file": "fixtures/coco2017/group_031_000000270244.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000270244.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2867/8764646161_bd1daa5b2a_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 428,
+      "sha256": "0d451a8b013beb0d9ca425aa5f9d9984ff48267cd5cc1d57786701e342fbec78",
+      "captions": [
+        "A zebra all by itself in the green forest.",
+        "A zebra standing in a field of grass outside.",
+        "A zebra standing in a grassy field by a woods.",
+        "A zebra stands in high grass in wooded area.",
+        "A half zebra hybrid is standing in tall grass."
+      ]
+    },
+    {
+      "group_id": 32,
+      "dataset": "COCO 2017 validation",
+      "image_id": 516316,
+      "file": "fixtures/coco2017/group_032_000000516316.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000516316.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5142/5840536817_38a20b2796_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebdde0bffc398ce6519cd0d2eadab6cdc29defed1f1c9b6e63c9a163319760b8",
+      "captions": [
+        "An antilope is eating grass in between two zebra.",
+        "Several zebras eat the green grass in the pasture.",
+        "Two zebras and another animal grazing in the grass.",
+        "Three zebra in the middle of a field with a body of water in the distance.",
+        "Three Zebra's eating grass as they walk. "
+      ]
+    },
+    {
+      "group_id": 33,
+      "dataset": "COCO 2017 validation",
+      "image_id": 125211,
+      "file": "fixtures/coco2017/group_033_000000125211.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000125211.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5268/5616414260_106febb605_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6705a4c67e66c2c0da9f3f290cd0cb2b3995b4cec97afc794bb062a17d7a309",
+      "captions": [
+        "A zebra standing on top of a grass covered field.",
+        "there is a very beautiful zebra that is standing in the shade",
+        "A zebra showing the left side of itself on a field.",
+        "A zebra is standing in an open field.",
+        "a large zebra standing next to a tree"
+      ]
+    },
+    {
+      "group_id": 34,
+      "dataset": "COCO 2017 validation",
+      "image_id": 562121,
+      "file": "fixtures/coco2017/group_034_000000562121.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000562121.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5260/5536366901_d00048ac6c_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 454,
+      "sha256": "f63c3917fa43ed573f7d1e147ac120b1198a3e9cdf57a46b02a19149f581c9fc",
+      "captions": [
+        "Two zebras fighting in a cloud of dust",
+        "Two zebras fighting in a open area with green bushes.",
+        "Two zebras are battling each other on hind legs.",
+        "Two zebra having a fight on top of a dry grass field.",
+        "Two zebras in a jungle area fighting in a dirt area."
+      ]
+    },
+    {
+      "group_id": 35,
+      "dataset": "COCO 2017 validation",
+      "image_id": 382088,
+      "file": "fixtures/coco2017/group_035_000000382088.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000382088.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8253/8637472246_0783196c6f_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 426,
+      "sha256": "2e496756dde5e2eb6f589ae423903bbef08e9f9a60d5b739daeabf452645cf47",
+      "captions": [
+        "A big and white horse in a dirt cage. ",
+        "A white horse is standing near a riding field.",
+        "a white horse that is standing next to a fence",
+        "A white horse standing in a corral looking on.",
+        "A white horse standing on top of a dirt field."
+      ]
+    },
+    {
+      "group_id": 36,
+      "dataset": "COCO 2017 validation",
+      "image_id": 577539,
+      "file": "fixtures/coco2017/group_036_000000577539.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000577539.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3494/3850219428_10c4b01c88_z.jpg",
+      "coco_license_id": 4,
+      "width": 500,
+      "height": 334,
+      "sha256": "e47b41db1c064f91364db5b38fad5c49988854a7197225fb4fde903640ee5e72",
+      "captions": [
+        "A bowl of banana's, sprinkels, chocolate chips, and marshmellows.",
+        "Bananas, marshmellows, chocolate chips and sprinkles in a bowl",
+        "Some dessert and toppings are in a blue plastic bowl.",
+        "A blue plate filled with marshmallows, chocolate chips and banana.",
+        "A bowl full of marshmallows, chocolate, and other delicious treats."
+      ]
+    },
+    {
+      "group_id": 37,
+      "dataset": "COCO 2017 validation",
+      "image_id": 104612,
+      "file": "fixtures/coco2017/group_037_000000104612.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000104612.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2060/2280818350_cabd27fb73_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 480,
+      "sha256": "997ac00cd26aff6a92717247dfb7ce7d5150a7281e61b7db8267833ea251c77d",
+      "captions": [
+        "A plate is filled with broccoli and noodles.",
+        "A dish of vegetables and noodles with sauce.",
+        "The dinner on the plate is ready to eat. ",
+        "A broccoli and pasta salad with oil and vinegar dressing.",
+        "an image of a plate of food with meat and veggies"
+      ]
+    },
+    {
+      "group_id": 38,
+      "dataset": "COCO 2017 validation",
+      "image_id": 109798,
+      "file": "fixtures/coco2017/group_038_000000109798.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000109798.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4050/4281720883_039e354b4d_z.jpg",
+      "coco_license_id": 5,
+      "width": 500,
+      "height": 333,
+      "sha256": "8fafbfb6d1c320f9efc59291748c0b9a730726db311364c03280b2de39fe656f",
+      "captions": [
+        "three different donuts one is pink one is brown and one has white sprinkles",
+        "A table topped with a white plate covered in three donuts.",
+        "A variety of doughnuts sitting on a paper plate.",
+        "Frosted and sprinkled donuts stacked on a paper plate.",
+        "Donuts with frosting and glazed toppings sit on table next to coffee maker"
+      ]
+    },
+    {
+      "group_id": 39,
+      "dataset": "COCO 2017 validation",
+      "image_id": 238866,
+      "file": "fixtures/coco2017/group_039_000000238866.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000238866.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7013/6610035555_f0429c52e9_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 439,
+      "sha256": "b5c7319f674a5eb9dd9f7374fd5142053ee13c81b036352e067bf53245f5a75f",
+      "captions": [
+        "tHERE ARE MANY DONUTS LAYED TO DRY ON A GRILL",
+        "A black-and white picture of a rack full of doughnuts.",
+        "A rack topped with glazed donuts sitting side by side.",
+        "a close up of a grill of doughnuts",
+        "A couple dozen of glazed donuts on a wire rack."
+      ]
+    },
+    {
+      "group_id": 40,
+      "dataset": "COCO 2017 validation",
+      "image_id": 369370,
+      "file": "fixtures/coco2017/group_040_000000369370.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000369370.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5145/5678857547_d84fa04ce4_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 480,
+      "sha256": "b1816506d44a18124a3d077573513de8b224ec00e2a22385ed661dfb1131023f",
+      "captions": [
+        "A sandwich on a plate served with garnish.",
+        "A delicious sandwich layered with meat and dressed with avocado lies on a cutting board.",
+        "A ham sandwich on a white plate with a kale garnish.",
+        "A white bread sandwich on plate filled with ham and lettuce",
+        "A table with plates of sandwiches and fruit."
+      ]
+    },
+    {
+      "group_id": 41,
+      "dataset": "COCO 2017 validation",
+      "image_id": 173383,
+      "file": "fixtures/coco2017/group_041_000000173383.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000173383.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7298/10229885046_3b4ef771c1_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 425,
+      "sha256": "b8671b1bd00a7c56686acf080cef5276803741647400f4bc6ee66cdccfe577d9",
+      "captions": [
+        "A two layer cake sitting on top of a table.",
+        "a two layered cake sits on a table top ",
+        "The cake is prepared and ready to be eaten.",
+        "A white boxy birthday cake with red flowers and blue accents on a decorated table with gray cover and candles.",
+        "A two layer cake sitting on a table near candles."
+      ]
+    },
+    {
+      "group_id": 42,
+      "dataset": "COCO 2017 validation",
+      "image_id": 347693,
+      "file": "fixtures/coco2017/group_042_000000347693.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000347693.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3317/3427794620_9db24fe462_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 427,
+      "sha256": "2f3bf48e66d0f5ec0b9494f04a34a32441e9ca025ca1db177e3a49606b47f161",
+      "captions": [
+        "A couple of windows sitting inside of a room.",
+        "a room with some big window on the side of it ",
+        "The older hospital room looks like it could be remodeled.",
+        "An old doctors office with two windows with curatins.",
+        "An assortment of rags hang on a metal rack."
+      ]
+    },
+    {
+      "group_id": 43,
+      "dataset": "COCO 2017 validation",
+      "image_id": 39956,
+      "file": "fixtures/coco2017/group_043_000000039956.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000039956.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2692/4164666887_536163f782_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 427,
+      "sha256": "76e73337d2385cf701750bc38a42f0205153af090244e66fb7a261052cb05217",
+      "captions": [
+        "A messy room with door and bed and chair.",
+        "A bedroom in an old house that is being renovated ",
+        "View of a very messy bedroom with boxes and bags covering the floor.",
+        "a messy bed room a bed a chair and boxes",
+        "A messy bedroom has one red brick wall."
+      ]
+    },
+    {
+      "group_id": 44,
+      "dataset": "COCO 2017 validation",
+      "image_id": 66523,
+      "file": "fixtures/coco2017/group_044_000000066523.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000066523.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3018/2471041106_3346281447_z.jpg",
+      "coco_license_id": 3,
+      "width": 480,
+      "height": 640,
+      "sha256": "49adf223db2be0c58fd0fcd78f8ba77c004b2a4d9ee399e1788f5257d21c1063",
+      "captions": [
+        "A bed topped with three white pillows covered in a canopy.",
+        "A bed with white and beige linens and a clear drape.",
+        "A made bed with mosquito netting above it.",
+        "A bed with white and gray bedding and netting overhead.",
+        "A full size bed with mosquito netting above, all in neutral colors."
+      ]
+    },
+    {
+      "group_id": 45,
+      "dataset": "COCO 2017 validation",
+      "image_id": 142092,
+      "file": "fixtures/coco2017/group_045_000000142092.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000142092.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3204/5745241446_6a040560ae_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fb3b673ad3aa73c3ee1d95367f6e8158c17afd203099e1ec9b40f42532275f4",
+      "captions": [
+        "A pizza with vegetables and cheese resting on a board.",
+        "There is a pizza with many toppings on it ",
+        "A pizza with lots of cheese on a flat brown surface.",
+        "An overhead view of a pizza on a pizza stone.",
+        "A large pizza on a stone pizza cooking tray."
+      ]
+    },
+    {
+      "group_id": 46,
+      "dataset": "COCO 2017 validation",
+      "image_id": 228144,
+      "file": "fixtures/coco2017/group_046_000000228144.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000228144.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3800/9678757658_774e298ba2_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 426,
+      "sha256": "478ca24cca4904cb881c8f39444273ba3105782e726d8527d36d741cf564c4c5",
+      "captions": [
+        "A chair sitting in the middle of the room, in a black and white photo.",
+        "A room with chairs and a large mirror.",
+        "No one is in the room but there are chairs.",
+        "The bedroom is clean and ready for the guests to use.",
+        "Three chairs sitting in a room near a mirror."
+      ]
+    },
+    {
+      "group_id": 47,
+      "dataset": "COCO 2017 validation",
+      "image_id": 206027,
+      "file": "fixtures/coco2017/group_047_000000206027.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000206027.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4105/4998256912_85bb59539a_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d02a9fe14338778b9b755b92da237f6972e070cc4b1b0f9c0ce4e6923b2a855",
+      "captions": [
+        "A slice of pizza that is on top of a napkin.",
+        "a slice of pizza sitting on top of a table.",
+        "Someone ordered a piece of pizza for dinner that does not have much cheese on it",
+        "A piece of pizza with thousand island dressing and a Coke Zero on the side.",
+        "A slice of pizza with a swirl of sauce on top."
+      ]
+    },
+    {
+      "group_id": 48,
+      "dataset": "COCO 2017 validation",
+      "image_id": 340175,
+      "file": "fixtures/coco2017/group_048_000000340175.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000340175.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6094/6326677826_f339c3fb4d_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 394,
+      "sha256": "2abd91fd8c44621597d54a3d8ef40fe9a9d004dd62cac55078915bea091afdc1",
+      "captions": [
+        "A LITTLE ROOM AND DINING ROOM AREA WITH FURNITURE",
+        " a living room with a big table next to a book shelf ",
+        "A living room decorated with a modern theme. ",
+        "a living room with wooden floors and furniture",
+        "The large room has a wooden table with chairs and a couch."
+      ]
+    },
+    {
+      "group_id": 49,
+      "dataset": "COCO 2017 validation",
+      "image_id": 578500,
+      "file": "fixtures/coco2017/group_049_000000578500.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000578500.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4042/4376919410_eff5f487aa_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 290,
+      "sha256": "7b0c55d345757ae8431fde2b2900ba6d49f27bbf50e19033564555ce5588fd75",
+      "captions": [
+        "a living room that has some couches and tables in it",
+        "A living room with the walls painted orange-red color.  ",
+        "The room has red walls with a blue chair",
+        "The room has red wall, white carpet and matching furniture.",
+        "A well-lit and well-decorated living room shows a glimpse of a glass front door through the corridor. "
+      ]
+    },
+    {
+      "group_id": 50,
+      "dataset": "COCO 2017 validation",
+      "image_id": 366141,
+      "file": "fixtures/coco2017/group_050_000000366141.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000366141.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2585/3704586407_21804c6219_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 480,
+      "sha256": "750ecf4c01f7690671d20dac73f7ee0ab2929a6fea7db0e953abeb69e8e81b95",
+      "captions": [
+        "a cat laying on top of a chair in the living room ",
+        "a living room with a couch and large television",
+        "A room with a couch, chair, table and television in it. ",
+        "A living room with a chair, couch, and a TV",
+        "Cat sitting on recliner back in room facing the television"
+      ]
+    },
+    {
+      "group_id": 51,
+      "dataset": "COCO 2017 validation",
+      "image_id": 168330,
+      "file": "fixtures/coco2017/group_051_000000168330.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000168330.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/191/459438121_6c20bfa385_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 390,
+      "sha256": "704ded862e1cdf5132739e4564d433bf7cfd55a2c044fb9da2afcfec39aa64a8",
+      "captions": [
+        "An old clock is illuminated at night on a street corner.",
+        "A large clock sitting on a sidewalk in front of a brick building.",
+        "Blurry photograph of a lamppost clock light on a street corner",
+        "A street corner has a clock on a post.",
+        "a city street at night with a lit clock on the corner"
+      ]
+    },
+    {
+      "group_id": 52,
+      "dataset": "COCO 2017 validation",
+      "image_id": 342006,
+      "file": "fixtures/coco2017/group_052_000000342006.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000342006.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/61/195092271_efa8bd48e1_z.jpg",
+      "coco_license_id": 1,
+      "width": 480,
+      "height": 640,
+      "sha256": "c33d6de9bf07a3b6c3879448785cb64a3cf2b581a1b7e0a77f908809980698c3",
+      "captions": [
+        " a castle and the big ben clocktower next to a river ",
+        "The enveloping of an outside town in the picture. \n",
+        "A barge floating down a river with the skyline in the background.",
+        "Tall building sitting on the rivers edge and a barge,",
+        "Water traffic along the Thames by Big Ben"
+      ]
+    },
+    {
+      "group_id": 53,
+      "dataset": "COCO 2017 validation",
+      "image_id": 236412,
+      "file": "fixtures/coco2017/group_053_000000236412.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000236412.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2618/4213689173_a864cfb94f_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 480,
+      "sha256": "437f364f15b29caa27ba255d8a25776f01e2e0d3e4fba3c5aea93e017650a179",
+      "captions": [
+        "A pizza casserole  with two kinds of crackers on the side.",
+        "A plate of food is sitting on a red clothe.",
+        "A pizza pie sits in a dish on a table. ",
+        "A homemade cheese pizza and crackers are on the table.",
+        "A cheese pizza pie is in the serving dish on the counter."
+      ]
+    },
+    {
+      "group_id": 54,
+      "dataset": "COCO 2017 validation",
+      "image_id": 153343,
+      "file": "fixtures/coco2017/group_054_000000153343.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000153343.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3357/3518624364_53ca46fd91_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "eecfc0bacf4f128ebeb29ef915a4df5a690b8fdaaac0742e340e9175357d0efb",
+      "captions": [
+        "two big stuffed bears sitting behind a chained fenced",
+        "two teddy bears that are large sitting in a small garden",
+        "big statues of two beers dressed in clothes, outside",
+        "two teddy bear on the arden with some decorations",
+        "A giant bear and mouse on display at the mall."
+      ]
+    },
+    {
+      "group_id": 55,
+      "dataset": "COCO 2017 validation",
+      "image_id": 95786,
+      "file": "fixtures/coco2017/group_055_000000095786.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000095786.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3274/2700096780_3463231d72_z.jpg",
+      "coco_license_id": 1,
+      "width": 500,
+      "height": 334,
+      "sha256": "6b4e7b4112fd2ac4e932fd97d47f0b4c5a4f01cdb55c16ba746a413b532f6995",
+      "captions": [
+        "there are three vases made of clay on a table",
+        "Three different pots sit near one another on a table.",
+        "Three hand formed clay pots with dripping paint",
+        "a purple mug is next to a bowl",
+        "Several pieces of pottery in the process of being painted."
+      ]
+    },
+    {
+      "group_id": 56,
+      "dataset": "COCO 2017 validation",
+      "image_id": 550426,
+      "file": "fixtures/coco2017/group_056_000000550426.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000550426.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5261/5771988584_c939246254_z.jpg",
+      "coco_license_id": 6,
+      "width": 416,
+      "height": 640,
+      "sha256": "46b4e78fc22c44edfca47861e94718fc98a4002955f478b874340a857b79bc74",
+      "captions": [
+        "A vase filled with red and white flowers on top of a table.",
+        "A tall vase with red and white tulips in water.",
+        "Bunch of flowers sitting in vase filled with water and rocks on bottom",
+        "A vase is filled with a bouquet of tulips. ",
+        "A vase of flowers on a dining table."
+      ]
+    },
+    {
+      "group_id": 57,
+      "dataset": "COCO 2017 validation",
+      "image_id": 34873,
+      "file": "fixtures/coco2017/group_057_000000034873.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000034873.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2563/3822818427_389d99073f_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 480,
+      "sha256": "376dbffac6db0b092cc07b43dfc34886725682d8e641caeff54710ac8f61ffb6",
+      "captions": [
+        "A kitchen with a counter and a table with chairs.",
+        "A large dining room features wooden cabinets and a marble counter top.",
+        "a black counter a sink and a table and two chairs",
+        "A kitchen island has a farmhouse sink on it.",
+        "A sink in a peninsula in a kitchen."
+      ]
+    },
+    {
+      "group_id": 58,
+      "dataset": "COCO 2017 validation",
+      "image_id": 186980,
+      "file": "fixtures/coco2017/group_058_000000186980.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000186980.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8487/8164909702_0730bc8dcd_z.jpg",
+      "coco_license_id": 1,
+      "width": 457,
+      "height": 640,
+      "sha256": "72e6c01325528577e18a5b53478c6c3d819ba8ad2470b4d579c86c76ac0afc63",
+      "captions": [
+        "A wooden table with two chairs next to a sink.",
+        "A table and chairs in a small kitchen.",
+        "a wooden dinette table and two chairs with place settings",
+        "A very pretty kitchen with a small wooden dining table.",
+        "A table sitting in a kitchen area with a fridge"
+      ]
+    },
+    {
+      "group_id": 59,
+      "dataset": "COCO 2017 validation",
+      "image_id": 127182,
+      "file": "fixtures/coco2017/group_059_000000127182.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000127182.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8453/7883863194_0e5f44d8f9_z.jpg",
+      "coco_license_id": 4,
+      "width": 427,
+      "height": 640,
+      "sha256": "dc53ed113bdc89db5801f47c5834d824d6182bcbef16724189feb1b9223b45fd",
+      "captions": [
+        "A kitchen filled with metal appliances and a window.",
+        "A home kitchen with white cabinets and silver appliances",
+        "This is a black and white photo of a white kitchen.",
+        "An empty clean kitchen with cabinetry, stove and dishwasher.",
+        "A KITCHEN WITH A SINK AND APPLIANCES "
+      ]
+    },
+    {
+      "group_id": 60,
+      "dataset": "COCO 2017 validation",
+      "image_id": 367680,
+      "file": "fixtures/coco2017/group_060_000000367680.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000367680.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/22/34251540_bec994ec35_z.jpg",
+      "coco_license_id": 1,
+      "width": 450,
+      "height": 338,
+      "sha256": "15a0aa08ef2c7dc21f247375f72459b6ee3f99b57a98482e5251294fc324b231",
+      "captions": [
+        "Cars, truck and carriages are traveling on the road",
+        "A horse drawn carriage among several other motor vehicles on a road.",
+        "A horse and cart are stopped on a busy street.",
+        "Several vehicles and a horse drawn cart pull up outside of a building.",
+        "a few cars that are parked out on a road"
+      ]
+    },
+    {
+      "group_id": 61,
+      "dataset": "COCO 2017 validation",
+      "image_id": 504711,
+      "file": "fixtures/coco2017/group_061_000000504711.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000504711.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/234/520078046_37e5bb8d95_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 483,
+      "sha256": "5c2031a9bbcc3ed6bb6180e5b105f90a1efb697552b74a7bd8c2a8905a876212",
+      "captions": [
+        "A fork rests on a plate next to a piece of cake.",
+        "A piece of chocolate cake sits on a plate with a fork.",
+        "a piece of chocolate cake and a fork on a plate",
+        "A closeup on some chocolate cake has a fork by it.",
+        "A piece of dutch chocolate cake with a fork  on a plate. "
+      ]
+    },
+    {
+      "group_id": 62,
+      "dataset": "COCO 2017 validation",
+      "image_id": 363840,
+      "file": "fixtures/coco2017/group_062_000000363840.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000363840.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2797/4256603007_6fbbea22de_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 480,
+      "sha256": "231e12c229c2f84c186085b320a6a8dcaa3d4763bbd09940204121379a5b3e11",
+      "captions": [
+        "Several different pieces of electronic equipment and computers on a desk.",
+        "A desk with two laptops and a monitor.",
+        "Two laptops,computer,keyboard and other electrical gadgets are on the table.",
+        "two laptops a mouse cords wires and a monitor ",
+        "Several laptop computers and electronic devices on a desk."
+      ]
+    },
+    {
+      "group_id": 63,
+      "dataset": "COCO 2017 validation",
+      "image_id": 379453,
+      "file": "fixtures/coco2017/group_063_000000379453.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000379453.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7337/9687518474_05fb72cbf2_z.jpg",
+      "coco_license_id": 3,
+      "width": 442,
+      "height": 442,
+      "sha256": "997a8a505564050c099a520afd84456b400de6d95c65ee9bc7f8b8f4a5572961",
+      "captions": [
+        "An Air Force jet flying in a deep blue sky.",
+        "A military jet flying through the air, overhead.",
+        "The bottom view of an airplane flying in the air.",
+        "The bottom of a jumbo jet is flying through the air.  ",
+        "A large airplane flying in the blue sky."
+      ]
+    },
+    {
+      "group_id": 64,
+      "dataset": "COCO 2017 validation",
+      "image_id": 311295,
+      "file": "fixtures/coco2017/group_064_000000311295.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000311295.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7151/6416499731_c12f35483a_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 427,
+      "sha256": "0c23b57cb7d6d782f2505861db55f76a1d859546a93c9ece6f66deb3af73a3bd",
+      "captions": [
+        "A field with various wildlife and trees in the background.",
+        "A group of zebras in a field by some trees.",
+        "The group of zebras are in the field. ",
+        "Zebras and wort hogs living together on the plains.",
+        "many animals in a field with trees and bushes in the background"
+      ]
+    },
+    {
+      "group_id": 65,
+      "dataset": "COCO 2017 validation",
+      "image_id": 29393,
+      "file": "fixtures/coco2017/group_065_000000029393.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000029393.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2556/4228514131_81f3416db3_z.jpg",
+      "coco_license_id": 4,
+      "width": 500,
+      "height": 375,
+      "sha256": "378763dec71a25c7cb44ff9e345c84ca0fe2d8bf993b88775c360549edf3b733",
+      "captions": [
+        "A large brown dog standing on the side of a white wood fence.",
+        "A dog standing on a bench with an orange tree in back.",
+        "A dog standing on a ledge in front of a lemon tree.",
+        "a brown and white dog a fence and a tree",
+        "A brown dog standing on a wooden bench near a lemon tree."
+      ]
+    },
+    {
+      "group_id": 66,
+      "dataset": "COCO 2017 validation",
+      "image_id": 166391,
+      "file": "fixtures/coco2017/group_066_000000166391.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000166391.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5024/5735220884_de797e3e8e_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 427,
+      "sha256": "4ee9bb8a8ac31522bd24dc3068760d4cf7a9255257ba38572ba5b4c750360c35",
+      "captions": [
+        "A large and wide street covered in lots of traffic lights.",
+        "cars are stopped at a traffic light on a highway",
+        "Traffic is stopped at a red stop light.",
+        "A traffic light and intersection with cars traveling in both directions on the street.",
+        "A number of red and green traffic lights on a wide highway."
+      ]
+    },
+    {
+      "group_id": 67,
+      "dataset": "COCO 2017 validation",
+      "image_id": 223130,
+      "file": "fixtures/coco2017/group_067_000000223130.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000223130.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6116/6416553725_b837b8df1b_z.jpg",
+      "coco_license_id": 1,
+      "width": 425,
+      "height": 640,
+      "sha256": "bc113e1f771631b951b5dd6102099a78f0f9f69b8219a88f3065c7f62b28b13e",
+      "captions": [
+        "A giraffe standing under a leaf filled tree.",
+        "A tall giraffe stretches to reach high leaves on a tree.",
+        "A giraffe that is standing in the grass.",
+        "The giraffe extends upward while eating from the branches of a tree. ",
+        "A giraffe reaching up to some tree branches"
+      ]
+    },
+    {
+      "group_id": 68,
+      "dataset": "COCO 2017 validation",
+      "image_id": 198960,
+      "file": "fixtures/coco2017/group_068_000000198960.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000198960.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7428/9722886305_9f16f81860_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 425,
+      "sha256": "e88d099db126af76507bfca5916d4ffa19a8817690c747ddac6ca5b6f4e6c4a4",
+      "captions": [
+        "A group of sheep standing next to each other on a field.",
+        "three sheep grassing in a pasture side by side.",
+        "Three big horn sheep are in an enclosed pasture. ",
+        "A black and white picture of three lambs. ",
+        "Two sheep and a ram stand next to a fence in the yard "
+      ]
+    },
+    {
+      "group_id": 69,
+      "dataset": "COCO 2017 validation",
+      "image_id": 344059,
+      "file": "fixtures/coco2017/group_069_000000344059.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000344059.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4115/4940328039_997e7d2ff4_z.jpg",
+      "coco_license_id": 6,
+      "width": 640,
+      "height": 427,
+      "sha256": "633eed113cdef492bb09c27d838ee82b81623be11e5a35019404380fe7bd320b",
+      "captions": [
+        "Two tall giraffes standing next to each other by trees.",
+        "Two giraffes nudging over a pole in a forested area",
+        "Two giraffes eat from a tall food post in their enclosure.",
+        "Giraffes standing in a wooded area, touching heads.",
+        "Two giraffe standing in a field next to trees."
+      ]
+    },
+    {
+      "group_id": 70,
+      "dataset": "COCO 2017 validation",
+      "image_id": 87875,
+      "file": "fixtures/coco2017/group_070_000000087875.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000087875.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3625/4628170230_5aa5135db0_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 487,
+      "sha256": "d90d4573a2b3d32f7ce3d704cb81b816f42a6326c59e935c6fa471dccc636718",
+      "captions": [
+        "Their is a hadron and their  in this lot,",
+        "A fire hydrant that is sitting in the grass.",
+        "A fire hydrant in a grassy field next to a bush",
+        "A fire hydrant beside a leafy green bush on a green lawn.",
+        "a fire hydrant near a tall bush in a field "
+      ]
+    },
+    {
+      "group_id": 71,
+      "dataset": "COCO 2017 validation",
+      "image_id": 450758,
+      "file": "fixtures/coco2017/group_071_000000450758.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000450758.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1164/1344613982_e3336b7893_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 479,
+      "sha256": "2bd41c7c8af67b477941538a4da8c8edadfe6b26bc3e19cfe991a89b35a2fe1b",
+      "captions": [
+        "A herd of giraffe running across a field.",
+        "A herd of giraffes are playing in a field.",
+        "A herd of giraffes are standing together in the grass.",
+        "THIS IS A FAMILY OF GIRAFFES RUNNING THROUGH THE BUSH",
+        "This is a field of giraffes roaming together."
+      ]
+    },
+    {
+      "group_id": 72,
+      "dataset": "COCO 2017 validation",
+      "image_id": 458790,
+      "file": "fixtures/coco2017/group_072_000000458790.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000458790.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/6/10303978_763e34189e_z.jpg",
+      "coco_license_id": 5,
+      "width": 500,
+      "height": 375,
+      "sha256": "e47e459ae6eeb0faecae6a0a5b0b13040d225be5c48066cfa2b46aa156a4f67f",
+      "captions": [
+        "A view from the inside of a train from a side window.",
+        "View of landscape and a building from a train window.",
+        "A building seen through a rain and fog covered window.",
+        "A view of a wet day from indoors.",
+        "A wet window blurs the image of an apartment building beyond."
+      ]
+    },
+    {
+      "group_id": 73,
+      "dataset": "COCO 2017 validation",
+      "image_id": 460160,
+      "file": "fixtures/coco2017/group_073_000000460160.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000460160.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7445/9345977086_006679cb85_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 480,
+      "sha256": "db7eaafa6ddf4785e56e99f0e3724a6eb9c68d4a21a5f6cbb320e0cece8c1ce3",
+      "captions": [
+        "a white bird some sand water rocks and grass",
+        "A white bird sitting on top of a lake.",
+        "A bird cleans itself next to a body of water. ",
+        "A large good standing in the dirt near the ocean. ",
+        "A swan floating along the water nibbling at itself."
+      ]
+    },
+    {
+      "group_id": 74,
+      "dataset": "COCO 2017 validation",
+      "image_id": 458109,
+      "file": "fixtures/coco2017/group_074_000000458109.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000458109.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3712/9932279996_5e591d53d4_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c0ccee4ccf4604e4e46cb426fab310b1b44639b1639f7682fd2916af514746e",
+      "captions": [
+        "A train parked next to some train tracks.",
+        "A passenger train rides on the rails, with another set of rails nearby.",
+        "a train that is next to a train track",
+        "Shadows are cast onto the side of a train because of the sun.",
+        "A train sits on the tracks by the platform."
+      ]
+    },
+    {
+      "group_id": 75,
+      "dataset": "COCO 2017 validation",
+      "image_id": 30675,
+      "file": "fixtures/coco2017/group_075_000000030675.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000030675.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7431/8727763435_699b976ae1_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 360,
+      "sha256": "66c6259b826b869e0d2dba078a0de6d9c82617843c2d5448e9b34566bab6f979",
+      "captions": [
+        "The train engine number 6309 is operated by BNSF. ",
+        "A long orange train traveling along a tree filled forest.",
+        "An orange BNSE train riding on the tracks near a forest",
+        "a black orange and yellow train on its track and some trees",
+        "The freight train is painted orange and yellow. "
+      ]
+    },
+    {
+      "group_id": 76,
+      "dataset": "COCO 2017 validation",
+      "image_id": 338428,
+      "file": "fixtures/coco2017/group_076_000000338428.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000338428.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8012/7535177488_ac1b53c80f_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 366,
+      "sha256": "39faeb71402b36123dea3184df23c676991b14960e2cb17f3e2ef4449910941f",
+      "captions": [
+        "An older pickup truck with decorative murals painted on.",
+        "an antique green pickup truck is parked in the grass.",
+        "Truck viewed from the back with vans and trucks visible in the background of the image.",
+        "A truck painted green with designs parked by other vehicles.",
+        "A photo of a green truck parked in grass."
+      ]
+    },
+    {
+      "group_id": 77,
+      "dataset": "COCO 2017 validation",
+      "image_id": 545826,
+      "file": "fixtures/coco2017/group_077_000000545826.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000545826.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2079/1993967446_d9a8d42613_z.jpg",
+      "coco_license_id": 2,
+      "width": 500,
+      "height": 333,
+      "sha256": "9701fea755a1cd3e887f06cd72ee5c0bfa6eaa980fcaf956292aac6cfcd66a3e",
+      "captions": [
+        "A black and white cat that is standing on all fours and has an elephant hat on it's head.",
+        "A black cat with white paws is standing among some wooden boards and a toy.",
+        "A cat is wearing a small elephant hat.",
+        "A cat on a stool with something on its head",
+        "There is a cat wearing an elephant hat"
+      ]
+    },
+    {
+      "group_id": 78,
+      "dataset": "COCO 2017 validation",
+      "image_id": 166277,
+      "file": "fixtures/coco2017/group_078_000000166277.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000166277.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/247/522239585_3ad698c8a7_z.jpg",
+      "coco_license_id": 4,
+      "width": 480,
+      "height": 640,
+      "sha256": "339f27367484fcbe52320570a985448dc0314a584b0b86ac0b25d1462324f8f0",
+      "captions": [
+        "A cat drinking out of a glass on top of a table.",
+        "a cat stands on a table drinking water out of a glass ",
+        "A cat drinking ice water out of a glass.",
+        "A grey colored cat that is drinking from a glass of water.",
+        "A cat is drinking something from a glass."
+      ]
+    },
+    {
+      "group_id": 79,
+      "dataset": "COCO 2017 validation",
+      "image_id": 269314,
+      "file": "fixtures/coco2017/group_079_000000269314.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000269314.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3492/3178700644_5c55c28a4c_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2914080945166979a01da027e3bc6a6f4968ab7e64f2092d8f61896ba40ea41",
+      "captions": [
+        "A cat sitting on top of a banana tree.",
+        "a cat is way up in a tree",
+        "A small cat sitting in the top of a banana tree.",
+        "A cat sitting in a tree, staring at the camera.",
+        "A cat resting in the top of a palm tree on a clear day."
+      ]
+    },
+    {
+      "group_id": 80,
+      "dataset": "COCO 2017 validation",
+      "image_id": 121506,
+      "file": "fixtures/coco2017/group_080_000000121506.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000121506.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7116/7721233008_99b07f96b1_z.jpg",
+      "coco_license_id": 4,
+      "width": 612,
+      "height": 612,
+      "sha256": "c343589eeba3701c2e6bc2b7f7f6c65eaaf9b2d998fd0402b90d82bdc69a0325",
+      "captions": [
+        "A wooden table with an inverted umbrella on it.",
+        "A beige outdoor umbrella is blown upside down.",
+        "A white umbrella that has been blown up the wrong way.",
+        "An umbrella on a backyard patio is upturned from the wind. ",
+        "A patio umbrella pointed inside out over a picnic table."
+      ]
+    },
+    {
+      "group_id": 81,
+      "dataset": "COCO 2017 validation",
+      "image_id": 453860,
+      "file": "fixtures/coco2017/group_081_000000453860.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000453860.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4115/4901231842_e5e73b51d9_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 428,
+      "sha256": "2ed5747763f62a62b58e4e562088cac15a5ea8740465b9562908aad0b89913ca",
+      "captions": [
+        "A couple of pieces of very nice looking luggage.",
+        "Two different brands but similar looking devices sitting by each other.",
+        "Two pieces of luggage stand next to each other. ",
+        "Two pieces of hard luggage are seen here.",
+        "two black bags placed standing on the ground"
+      ]
+    },
+    {
+      "group_id": 82,
+      "dataset": "COCO 2017 validation",
+      "image_id": 125062,
+      "file": "fixtures/coco2017/group_082_000000125062.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000125062.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6188/6028822795_b1ab5e9d38_z.jpg",
+      "coco_license_id": 2,
+      "width": 427,
+      "height": 640,
+      "sha256": "2e0b23c7ae0b7d4d09d7348bf0577fbdbc9c11a010cbd3f52c93ed33616d98c6",
+      "captions": [
+        "A row of white teddy bears on shelf next to DVDs.",
+        "A group of teddy bears leaning against a row of movies",
+        "A row of little white teddy bears lean against a row of movies on a shelf.",
+        "Four teddy bears are lined up in a row on a shelf of books.",
+        "A line of small teddy bears are in front of several DVD cases."
+      ]
+    },
+    {
+      "group_id": 83,
+      "dataset": "COCO 2017 validation",
+      "image_id": 134112,
+      "file": "fixtures/coco2017/group_083_000000134112.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000134112.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2097/1940416413_e5833296ae_z.jpg",
+      "coco_license_id": 3,
+      "width": 500,
+      "height": 357,
+      "sha256": "feda9168f8087b6c6b39871be82181e82e46db4a54b768ab761f78c2df84abec",
+      "captions": [
+        "A small dog laying on a bed next to a laptop computer.",
+        "a dog laying on a bed near a laptop ",
+        "A dog sitting in front of a laptop on top of a bed",
+        "Small brown and white dog sitting in front of the laptop. ",
+        "A dog is lying next to a laptop computer."
+      ]
+    },
+    {
+      "group_id": 84,
+      "dataset": "COCO 2017 validation",
+      "image_id": 31269,
+      "file": "fixtures/coco2017/group_084_000000031269.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000031269.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1098/1250662377_e9927a2c9d_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 480,
+      "sha256": "91de0bc1f19dbacec3234adfd8e9eb160c5a08bf1dcfc4b6ccc08af09611708a",
+      "captions": [
+        "three zebras in a field near bushes ",
+        "A group of zebra standing on top of a grass covered hillside.",
+        "Two zebras grazing while another horse standing and staring. ",
+        "Three adult zebra stand near the upturned dirt.",
+        "three zebras grazing in a grassy area near shrubs"
+      ]
+    },
+    {
+      "group_id": 85,
+      "dataset": "COCO 2017 validation",
+      "image_id": 165351,
+      "file": "fixtures/coco2017/group_085_000000165351.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000165351.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2469/5847066665_a3a723b346_z.jpg",
+      "coco_license_id": 3,
+      "width": 612,
+      "height": 612,
+      "sha256": "b5b74b91c82fee7c5e4f9824d6453072365b3a822bf72cb6e0cf8e03f8f0fe75",
+      "captions": [
+        "Sliced bananas sit on top of a pastry dish on a plate.",
+        "A food that is topped with bananas and a brown sauce.",
+        "odd meal on a plate with bananas and gravy",
+        "The desert is made and ready to be eaten. ",
+        "Blueberry pancakes with slices bananas and glaze on top."
+      ]
+    },
+    {
+      "group_id": 86,
+      "dataset": "COCO 2017 validation",
+      "image_id": 389381,
+      "file": "fixtures/coco2017/group_086_000000389381.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000389381.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2544/4007091102_031486bd66_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 543,
+      "sha256": "87f7041b4292e3816f62cc662488aed5e2a33b7952a092a4c00988c4149f0412",
+      "captions": [
+        "a bowl of different kinds of food on it",
+        "two dishes holding a bunch of vegetables and fruit",
+        "A colorful assortment of different fruits and vegetables. ",
+        "A plastic bento box filled with rice, vegetables and fresh fruit",
+        "One tray of rice and a tray of fruits and veggies."
+      ]
+    },
+    {
+      "group_id": 87,
+      "dataset": "COCO 2017 validation",
+      "image_id": 21503,
+      "file": "fixtures/coco2017/group_087_000000021503.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000021503.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/166/357634751_ac81ea653a_z.jpg",
+      "coco_license_id": 2,
+      "width": 640,
+      "height": 480,
+      "sha256": "83f04a37053c9bfaaaae137edb80a262fb8604af40064bfdee7899129ee5ce77",
+      "captions": [
+        "Crackers with spread on table with remote in background",
+        "There is a plate filled with pastries next to a keyboard.",
+        "Square pastries are assorted on a white platter.",
+        "Plate of crackers with something spread on them next to a keyboard",
+        "Crackers coated with spread, sitting on a plate, ready to eat."
+      ]
+    },
+    {
+      "group_id": 88,
+      "dataset": "COCO 2017 validation",
+      "image_id": 105014,
+      "file": "fixtures/coco2017/group_088_000000105014.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000105014.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7068/6933079123_192a8798bf_z.jpg",
+      "coco_license_id": 4,
+      "width": 427,
+      "height": 640,
+      "sha256": "f35e364bb8237ad5609f4e3a11220996b8417bd5241216aae82510f8ea368c14",
+      "captions": [
+        "a salad that looks like a boat is next to a fork",
+        "A bowl full of food sitting on a table next to a fork that rests on top of a circular disk.",
+        "A large salad bowl with a fork on the side on a flowered table..",
+        "A small lunch box with various vegetables and a fork",
+        "A salad is in a red container and has lettuce, tomatoes and bits of carrots in it."
+      ]
+    },
+    {
+      "group_id": 89,
+      "dataset": "COCO 2017 validation",
+      "image_id": 34205,
+      "file": "fixtures/coco2017/group_089_000000034205.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000034205.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3308/3287106236_e87a7242be_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 427,
+      "sha256": "48fbf607e09ff475a83d2f67ae74e59da68e7992ecb43245c4ba65a8ae3c2509",
+      "captions": [
+        "Closeup of a plate of food that includes chicken, mushrooms and broccoli.",
+        "Extreme close up of a cooked chicken, mushroom, and broccoli dish.",
+        "Chicken and mushrooms served with broccoli garnished with parsley.",
+        "The meal is prepared and ready to be eaten. ",
+        "Some sort of chicken dish with broccoli spears on side of plate"
+      ]
+    },
+    {
+      "group_id": 90,
+      "dataset": "COCO 2017 validation",
+      "image_id": 460494,
+      "file": "fixtures/coco2017/group_090_000000460494.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000460494.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/43/106359933_8ba0d1ac1f_z.jpg",
+      "coco_license_id": 3,
+      "width": 640,
+      "height": 426,
+      "sha256": "340bd3040b0bd19a63ea373badaac838fa0ca02abc885248cf4f0f5764877596",
+      "captions": [
+        "Assorted meal sitting on a plate with a white glass of milk.",
+        "A plate that has food that is sitting on the table.",
+        "A red plate topped with broccoli, meat and veggies.",
+        "A very bright red plate with some tasty looking food.",
+        "A red plate holds on it broccoli, carrots, muffins and meat."
+      ]
+    },
+    {
+      "group_id": 91,
+      "dataset": "COCO 2017 validation",
+      "image_id": 339442,
+      "file": "fixtures/coco2017/group_091_000000339442.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000339442.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2759/4071377952_a72fb3c742_z.jpg",
+      "coco_license_id": 1,
+      "width": 523,
+      "height": 640,
+      "sha256": "0bdad29d04f4a11e8772b7a8e2151281b70282754c77fa5b849423be497c6f78",
+      "captions": [
+        "A sandwich and some grapes are sitting on top of a tablecloth.",
+        "A sandwich with a pile a olives and an apple on a tablecloth. ",
+        "A sandwich with meat sitting next to grapes and an apple.",
+        "Meat sandwich and dark berries on plaid cloth in front of tomato.",
+        "some fruit is next to a sandwich on a table"
+      ]
+    },
+    {
+      "group_id": 92,
+      "dataset": "COCO 2017 validation",
+      "image_id": 464786,
+      "file": "fixtures/coco2017/group_092_000000464786.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000464786.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2463/3824077883_b53d4d7506_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 428,
+      "sha256": "4b14c0aa08c422043040fa7c55eefb6d8937cd477eb0baccd248b80b20bc1002",
+      "captions": [
+        "A hot dog and a bun with some mustard.",
+        "hotdog on bun with what looks like horseradish sauce",
+        "A hot dog on a bun with spicy mustard on it.",
+        "Hot dog with mustard on it sitting on a white napkin. ",
+        "A hot dog sitting on top of a bun in a wrapper."
+      ]
+    },
+    {
+      "group_id": 93,
+      "dataset": "COCO 2017 validation",
+      "image_id": 378605,
+      "file": "fixtures/coco2017/group_093_000000378605.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000378605.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2695/4218308004_67137a2e53_z.jpg",
+      "coco_license_id": 3,
+      "width": 426,
+      "height": 640,
+      "sha256": "8ad449c587e890e4a9251169f12d80de8cd7af92263b6dc4ff51fb9a8f224431",
+      "captions": [
+        "A table with a napkin, doughnut on a plate, and a cup of coffee.",
+        "a donut with a cup of coffee and an ornate napkin holder",
+        "A white plate with a donut and napkin sculpture.",
+        "A donut is on the table on a white saucer.",
+        "A chocolate frosted donut on a plate with a cup of coffee and a penguin napkin holder. "
+      ]
+    },
+    {
+      "group_id": 94,
+      "dataset": "COCO 2017 validation",
+      "image_id": 218091,
+      "file": "fixtures/coco2017/group_094_000000218091.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000218091.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4154/5033065824_d526130e36_z.jpg",
+      "coco_license_id": 5,
+      "width": 640,
+      "height": 429,
+      "sha256": "6c506ffaa299d1181af58230cee4f4d78ab3deb2b35fa56a025fffcf320c87fe",
+      "captions": [
+        "A bedroom with a large bed sitting next to a black dresser.",
+        "A small hotel room is furnished for business",
+        "A hotel suite with a desk sofa and bed",
+        "A room with a bed, a desk, and a television.",
+        "Hotel room scene, efficiency, queen bed, sofa, table/desk, TV, in brown tone room."
+      ]
+    },
+    {
+      "group_id": 95,
+      "dataset": "COCO 2017 validation",
+      "image_id": 172571,
+      "file": "fixtures/coco2017/group_095_000000172571.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000172571.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5101/5593927388_ef06e5c821_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 361,
+      "sha256": "7357af1c648b48951ddf27801e0b94a2f829cdfff0f7ebabb37ab5a145126e3c",
+      "captions": [
+        "A very thick pizza is on a plate with one piece taken.",
+        "Chicago style deep dish pizza with tomato sauce and sausage.",
+        "A sliced pizza sitting on a table next to a glass of water and a glass of wine. ",
+        "A deep dish style pizza with a slice cut out of it next to a glass of white wine.",
+        "A thick crust cut pizza on a plate with wine by its side."
+      ]
+    },
+    {
+      "group_id": 96,
+      "dataset": "COCO 2017 validation",
+      "image_id": 294831,
+      "file": "fixtures/coco2017/group_096_000000294831.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000294831.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5205/5325391398_e53c66f2ff_z.jpg",
+      "coco_license_id": 1,
+      "width": 640,
+      "height": 361,
+      "sha256": "cec543ec3b7a415a5c001e0a4d92683eb06a5b12fc532312c635436149a32b04",
+      "captions": [
+        "Two pieces of pizza are served on a plate.",
+        "Someone is holding a black plate with two slices of pizza. ",
+        "A plate with two slices of pizza on it.",
+        "Two slices of pizza on a black plate",
+        "Two slices of chicken pizza on a plate."
+      ]
+    },
+    {
+      "group_id": 97,
+      "dataset": "COCO 2017 validation",
+      "image_id": 84431,
+      "file": "fixtures/coco2017/group_097_000000084431.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000084431.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5130/5347802144_547c922607_z.jpg",
+      "coco_license_id": 1,
+      "width": 361,
+      "height": 640,
+      "sha256": "b722912fc0d2ab3b108d828a08cc2c450a8cd36e789f33d22c1de1f75b225918",
+      "captions": [
+        "A slice of pizza sitting on top of a white plate.",
+        "A slice of pizza with toppings on a plate. ",
+        "A piece of pizza sitting on a plate while a t.v. is on. ",
+        "a single slice of pizza with ham slices on it  on a plate",
+        "A ham pizza with grated parmesan is on a plate in front of a TV."
+      ]
+    },
+    {
+      "group_id": 98,
+      "dataset": "COCO 2017 validation",
+      "image_id": 355325,
+      "file": "fixtures/coco2017/group_098_000000355325.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000355325.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4075/4765748189_9e8c7226c1_z.jpg",
+      "coco_license_id": 3,
+      "width": 478,
+      "height": 640,
+      "sha256": "2a8356486557241592dd40f38db50394624b48ed6e0218b7138350ce0c44b1e3",
+      "captions": [
+        "A pile of food sitting on top of a table next to a  glass of wine.",
+        "A cutting board with pizza and a glass of wine",
+        "A pizza has been topped with ham near a large glass of wine.",
+        "Several slices of meat are on top of a pizza.",
+        "A table with food and a glass of red wine."
+      ]
+    },
+    {
+      "group_id": 99,
+      "dataset": "COCO 2017 validation",
+      "image_id": 555412,
+      "file": "fixtures/coco2017/group_099_000000555412.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000555412.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1287/4708570836_62cae13ef6_z.jpg",
+      "coco_license_id": 4,
+      "width": 640,
+      "height": 427,
+      "sha256": "110933a17bcc31cf2b1aee13da2064db5fd74a554bf4b35d4dd7b2c4db967e14",
+      "captions": [
+        "A pizza covered in lots of greens on top of a table.",
+        "A pizza with bacon bits and spinach leaves on it.",
+        "Leafy greens and sun dried tomatoes on something",
+        "A close up photo of a pizza with a lettuce and prosciutto topping. ",
+        "A pizza is shown with various toppings on it."
+      ]
+    },
+    {
+      "group_id": 100,
+      "dataset": "COCO 2017 validation",
+      "image_id": 4495,
+      "file": "fixtures/coco2017/group_100_000000004495.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000004495.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2678/4420039562_721e7e2780_z.jpg",
+      "coco_license_id": 3,
+      "width": 500,
+      "height": 375,
+      "sha256": "cf670ca35fb16e59ecce82eecf9bf1f60d2ee333be81b61c4ea390be2c7e7b2b",
+      "captions": [
+        "A living room with a couch and chair.",
+        "A television, couch and chair in the corner of a room.",
+        "A very simple living area with a chair, sofa and TV.",
+        "A corner of a living room with a TV in it.",
+        "a room with a tv and some different types of couches"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Local browser login data and dependencies
+/automation_comparison/browser_profile/
+/automation_comparison/node_modules/
+
+# Captures and generated datasets
+/runs/
+/大模型/
+/pilot_*/
+/staging_*/
+/*.pcap
+/*.pcapng
+/*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "activities": [
+    {
+      "element": "A1",
+      "activity": "simple_chat",
+      "label_zh": "简单对话",
+      "prompt": "In exactly two sentences, explain what an internet packet is. Answer in English."
+    },
+    {
+      "element": "A2",
+      "activity": "long_form",
+      "label_zh": "长文生成",
+      "prompt": "Write an original 650-to-750-word explanatory article in English about how a web browser loads a web page. Cover DNS lookup, connection setup, HTTPS, requests, responses, and rendering. Use coherent paragraphs and no bullet points."
+    },
+    {
+      "element": "A3",
+      "activity": "image_generation",
+      "label_zh": "图片生成",
+      "prompt": "Generate a clean flat illustration on a plain white background: one red circle on the left and one blue square on the right. Do not include any text, logos, or extra objects."
+    },
+    {
+      "element": "A4",
+      "activity": "image_understanding",
+      "label_zh": "图片理解",
+      "prompt": "Look at the attached image. Identify the shapes, their colors, and their relative positions. Answer in two English sentences.",
+      "input_image": "fixtures/red_circle_blue_square.png"
+    }
+  ]
+}
